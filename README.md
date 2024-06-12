@@ -6,8 +6,6 @@
 
 **Data Problem:** The task involves fitting and tuning various classification models to categorize individuals as subscribers or non-subscribers. Models with high accuracy and recall will be utilized to predict the subscription status of new clients. Additionally, regression models will be fitted to identify the most important features that distinguish between the two groups, helping to profile subscribing clients and optimize resource allocation.
 
-**Motivation:** This project is part of the requirements for UC Berkeley's Professional Certificate in Machine Learning and Artificial Intelligence.
-
 **Findings:** The five most important features for predicting a client's subscription status are the number of employees, the number of days since the most recent contact, marital status, loan status, and education. Key insights include:
 - A lower number of employees is associated with higher subscription rates (5099 employees had the highest subscription count).
 - Clients contacted 3-6 days ago are more likely to subscribe.
