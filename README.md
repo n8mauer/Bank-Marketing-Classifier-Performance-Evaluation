@@ -1,6 +1,6 @@
 <h1>Bank Marketing Classifier Performance Evaluation</h1>
 
-**Data Overview:** The dataset used in this project is sourced from the UCI Machine Learning repository and originates from a Portuguese banking institution. It comprises results from several direct marketing campaigns. The dataset includes information from 17 telephone marketing campaigns conducted between May 2008 and November 2010, with a total of 79,354 contacts made to persuade clients to subscribe to a bank term deposit. The success rate observed was 0.08. Further details on the data and features can be found in the accompanying article.
+**Data Overview:** The dataset used in this project is sourced from the UCI Machine Learning repository and originates from a Portuguese banking institution. It comprises results from several direct marketing campaigns. The dataset includes information from 17 telephone marketing campaigns conducted between May 2008 and November 2010, with a total of 79,354 contacts made to persuade clients to subscribe to a bank term deposit. The success rate observed was 0.08.
 
 **Business Objective:** The main objective of this project is to predict whether an individual will subscribe to a bank term deposit. This will help in better allocation and targeting of marketing resources towards clients who are more likely to subscribe.
 
